@@ -81,6 +81,8 @@ While prioritization reduced high-risk wait times relative to general patients, 
 
 Performance breakdown was concentrated between 9 AM – 12 PM, where SLA compliance dropped below 25% and average wait times exceeded 29 minutes.
 
+![Hourly SLA Analysis](dashboard/hourly_analysis.png)
+
 **Recommendations**
 Walk-In Load Management
 
