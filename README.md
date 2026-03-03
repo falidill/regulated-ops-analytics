@@ -1,4 +1,5 @@
 **Regulated Operations Workflow Analysis**
+Designed KPI architecture and identified peak-demand bottlenecks to improve SLA compliance in regulated operational systems.
 
 **Overview**
 
