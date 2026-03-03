@@ -4,7 +4,7 @@
 
 Organizations operating in regulated environments often struggle with limited visibility into workflow bottlenecks, demand surges, and risk exposure. This project demonstrates an end-to-end operational performance analysis of a multi-stage service workflow using structured KPI design and governance-aligned measurement.
 
-The focus is not on modeling complexity — but on improving decision clarity.
+The focus is not on modeling complexity  but on improving decision clarity.
 
 **Business Problem**
 
